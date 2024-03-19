@@ -36,8 +36,8 @@
         // "USER_RwBf": "xxx",
         // "USER_MUID": "xxx",
         // Base Domain
-        // "BING_BASE_URL": "https://www.bing.com",
-        // "SYDNEY_BASE_URL": "https://sydney.bing.com",
+        "BING_BASE_URL": "https://www.bing.com",
+        "SYDNEY_BASE_URL": "https://sydney.bing.com",
       }
     }
   ]
