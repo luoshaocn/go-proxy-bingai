@@ -27,11 +27,11 @@
         "BYPASS_SERVER": "https://bypass.zklcdc.xyz",
         "LOCAL_MODE": "true",
         "LOG_LEVEL": "DEBUG",
-        // "Go_Proxy_BingAI_AUTH_KEY": "1ezLdokHWXODYOLH_1VE8XQCr3UhlP_ODnF8bspMgWNCbOOigJXVF2vTEV9edsdW6BhddQbZ4w5-IECTaRhKehookxo8oBsMp8UlsxJwyLCbzUe5bMwF1J7AsDorqbKboC3a2W-mEEUkIKHNFZQuGrg18dxgKbYT-oAvQ7rkqo7vppaeopJ-clnrIVIjjr0K5fo8KlbU5jfqQvxYTOwvJmQ
+        "Go_Proxy_BingAI_AUTH_KEY": "1ezLdokHWXODYOLH_1VE8XQCr3UhlP_ODnF8bspMgWNCbOOigJXVF2vTEV9edsdW6BhddQbZ4w5-IECTaRhKehookxo8oBsMp8UlsxJwyLCbzUe5bMwF1J7AsDorqbKboC3a2W-mEEUkIKHNFZQuGrg18dxgKbYT-oAvQ7rkqo7vppaeopJ-clnrIVIjjr0K5fo8KlbU5jfqQvxYTOwvJmQ
 ",
         // "APIKEY": "sk-xxxxxxxxxxxxxx",
         // Cookie
-        // "Go_Proxy_BingAI_USER_TOKEN_1": "1ivO9DnQBeOHkDUNoGirB86jWcSvIi_5FsecbpKuQjqA_yP9l11-mivSzFqdkjwPsLQgwp20RqCEXeu5zmGUeoCehHnof2M0S4l4LaXZ3tzZqPhdJ79r1uSYdH5rgCAwPDkfNnmTLalXWHIMSoRvbp1F-gFgJpfOuEPAN_uFTQOtY0at9ib3VRHSQ7OkCMn8dJFpIyex7glLhXMPSygTnNlVaxF0RUqvlvhXLIEULD9w",
+        "Go_Proxy_BingAI_USER_TOKEN_1": "1ivO9DnQBeOHkDUNoGirB86jWcSvIi_5FsecbpKuQjqA_yP9l11-mivSzFqdkjwPsLQgwp20RqCEXeu5zmGUeoCehHnof2M0S4l4LaXZ3tzZqPhdJ79r1uSYdH5rgCAwPDkfNnmTLalXWHIMSoRvbp1F-gFgJpfOuEPAN_uFTQOtY0at9ib3VRHSQ7OkCMn8dJFpIyex7glLhXMPSygTnNlVaxF0RUqvlvhXLIEULD9w",
         // "USER_KievRPSSecAuth": "xxx",
         // "USER_RwBf": "xxx",
         // "USER_MUID": "xxx",
